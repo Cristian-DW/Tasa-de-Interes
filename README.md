@@ -26,7 +26,7 @@ Demostración en vivo del proyecto (https://cristian-dw.github.io/Tasa-de-Intere
 1. Clona este repositorio en tu máquina local:
 
     ```bash
-    git clone https://github.com/tu_usuario/tu_proyecto.git
+    git clone https://github.com/Cristian-DW/Tasa-de-Interes.git
     ```
 
 2. Abre el archivo `index.html` en tu navegador web.
