@@ -18,8 +18,6 @@ Demostración en vivo del proyecto (https://cristian-dw.github.io/Tasa-de-Intere
 - Interfaz de usuario intuitiva y atractiva.
 - Personalizable según las necesidades del usuario.
 
-## Capturas de Pantalla
-
 
 ## Instrucciones de Uso
 
