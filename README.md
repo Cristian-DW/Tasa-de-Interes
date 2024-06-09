@@ -16,6 +16,6 @@ Demostración en vivo del proyecto (https://cristian-dw.github.io/Tasa-de-Intere
 
 - Calculadora de tasa de interes bruto
 - Interfaz de usuario intuitiva y atractiva.
-- Personalizable según las necesidades del usuario.
+
 
 
